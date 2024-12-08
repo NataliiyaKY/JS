@@ -1,0 +1,35 @@
+*{
+    background-color: lightgrey;
+    margin: 0;
+}
+
+p, h1{
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.flex{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 2vw;
+}
+
+#inp1{
+    width: 195px;
+}
+
+#div1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+button{
+    width: auto;
+    margin-left: 2vw;
+    margin-bottom: 1vw;
+}
+
+.divButtons{
+    width: 10vw;
+}
